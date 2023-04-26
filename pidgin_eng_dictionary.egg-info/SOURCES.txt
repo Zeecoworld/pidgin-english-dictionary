@@ -1,0 +1,8 @@
+LICENSE.txt
+README.txt
+setup.py
+pidgin_eng_dictionary.egg-info/PKG-INFO
+pidgin_eng_dictionary.egg-info/SOURCES.txt
+pidgin_eng_dictionary.egg-info/dependency_links.txt
+pidgin_eng_dictionary.egg-info/requires.txt
+pidgin_eng_dictionary.egg-info/top_level.txt
